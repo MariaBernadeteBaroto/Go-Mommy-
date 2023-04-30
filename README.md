@@ -22,4 +22,4 @@
   https://github.com/MariaBernadeteBaroto/Go-Mommy-
   
 > Trello Project Link:
-   https://trello.com/b/BS57zL8U
+   https://trello.com/invite/birdboxsolutioncorp/ATTIab1ca41a941d6dc17e1b78c48a5dd9fa61962FD2
